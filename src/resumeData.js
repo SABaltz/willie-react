@@ -22,23 +22,24 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"University Of Montana Alumni specalizing in percussion porformance, music eduction, and composition for media and advertisements.",
+    "address":"Columbia Falls MT",
+    "website":"https://WillieBaltz.com",
+    "phone":"(406) 253-2867",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
+        "UniversityName":"",
+        "specialization":"Music Performance",
+        "MonthOfPassing":"May",
+        "YearOfPassing":"2023",
         "Achievements":"Some Achievements"
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "UniversityName":"The University Of Montana",
+        "specialization":"Percussion Performance",
+        "MonthOfPassing":"",
+        "YearOfPassing":"2023",
+        "Achievements":""
       }
     ],
     "work":[
@@ -60,13 +61,13 @@ let resumeData = {
     "skillsDescription":"Your skills here",
     "skills":[
       {
-        "skillname":"HTML5"
+        "skillname":"Percussion"
       },
       {
-        "skillname":"CSS"
+        "skillname":"Logic Pro X"
       },
       {
-        "skillname":"Reactjs"
+        "skillname":"Steel Drums"
       }
     ],
     "portfolio":[
