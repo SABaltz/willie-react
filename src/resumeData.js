@@ -1,28 +1,18 @@
 let resumeData = {
     "imagebaseurl": "https://rbhatia46.github.io/",
     "name": "Willie Baltz",
-    "role": "Percussionist and Composer",
+    "role": "Percussionist and composer",
     "linkedinId": "Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": " I specialize in music performance and music composition for media and advertisements.",
     "socialLinks": [
         {
-            "name": "linkedin",
+            "name": "instagram",
             "url": "https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
-            "className": "fa fa-linkedin"
+            "className": "fa fa-instagram"
         },
-        {
-            "name": "github",
-            "url": "http://github.com/rbhatia46",
-            "className": "fa fa-github"
-        },
-        {
-            "name": "skype",
-            "url": "http://twitter.com/rbhatia46",
-            "className": "fa fa-twitter"
-        }
     ],
-    "aboutme": "University Of Montana Alumni specalizing in percussion porformance, music eduction, and composition for media and advertisements.",
+    "aboutme": "University Of Montana Alumni with a bachelors in percussion performance, and composition for media and advertisements.",
     "address": "Columbia Falls MT",
     "website": "https://WillieBaltz.com",
     "phone": "(406) 253-2867",
