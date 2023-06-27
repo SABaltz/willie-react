@@ -409,19 +409,19 @@ ul#nav li.current a {
     -webkit-animation: wordpress 2s ease;
 }
 
-.css {
+.percussion {
     width: 90%;
     -moz-animation: css 2s ease;
     -webkit-animation: css 2s ease;
 }
 
-.html5 {
+.logic-pro-x {
     width: 80%;
     -moz-animation: html5 2s ease;
     -webkit-animation: html5 2s ease;
 }
 
-.jquery {
+.steel-drums {
     width: 50%;
     -moz-animation: jquery 2s ease;
     -webkit-animation: jquery 2s ease;
