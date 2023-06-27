@@ -8,8 +8,13 @@ let resumeData = {
     "socialLinks": [
         {
             "name": "instagram",
-            "url": "https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+            "url": "https://www.instagram.com/williewonderdrums/",
             "className": "fa fa-instagram"
+        },
+        {
+            "name": "youtube",
+            "url": "https://www.youtube.com/watch?v=-8mxB2WrbKc&ab_channel=UniversityofMontanaSchoolofMusic",
+            "className": "fa fa-youtube"
         },
     ],
     "aboutme": "University Of Montana Alumni with a bachelors in percussion performance, and composition for media and advertisements.",
