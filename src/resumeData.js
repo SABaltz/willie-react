@@ -58,7 +58,7 @@ let resumeData = {
             "Achievements": "Some Achievements"
         }
     ],
-    "skillsDescription": "Your skills here",
+    "skillsDescription": "Music Performance and Sound Design",
     "skills": [
         {
             "skillname": "Percussion"
