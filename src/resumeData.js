@@ -69,22 +69,22 @@ let resumeData = {
         {
             "name": "project1",
             "description": "mobileapp",
-            "imgurl": "images/portfolio/phone.jpg"
+            "imgurl": "https://www.youtube.com/watch?v=-8mxB2WrbKc&ab_channel=UniversityofMontanaSchoolofMusic"
         },
         {
             "name": "project2",
             "description": "mobileapp",
-            "imgurl": "images/portfolio/project.jpg"
+            "imgurl": "https://www.youtube.com/watch?v=Ka7ZB6_jTxk&ab_channel=UniversityofMontanaSchoolofMusic"
         },
         {
             "name": "project3",
             "description": "mobileapp",
-            "imgurl": "images/portfolio/project2.png"
+            "imgurl": "https://www.youtube.com/watch?v=WjWuYHZk24U&ab_channel=PortNugent"
         },
         {
             "name": "project4",
             "description": "mobileapp",
-            "imgurl": "images/portfolio/phone.jpg"
+            "imgurl": "https://www.youtube.com/watch?v=pZHFGaesxcs&ab_channel=WilliamBaltz"
         }
     ],
     "testimonials": [

@@ -1,4 +1,6 @@
 import React, {Component} from 'react';
+import YouTube from "react-youtube";
+import ReactPlayer from "react-player";
 
 export default class Porfolio extends Component {
     render() {
@@ -14,15 +16,23 @@ export default class Porfolio extends Component {
                                     return (
                                         <div className="columns portfolio-item">
                                             <div className="item-wrap">
-                                                <a href="#modal-01">
-                                                    <img src={`${item.imgurl}`} className="item-img"/>
-                                                    <div className="overlay">
-                                                        <div className="portfolio-item-meta">
-                                                            <h5>{item.name}</h5>
-                                                            <p>{item.description}</p>
-                                                        </div>
-                                                    </div>
-                                                </a>
+                                                {/*<a href="#modal-01">*/}
+                                                {/*    <img src={`${item.imgurl}`} className="item-img"/>*/}
+                                                {/*    <div className="overlay">*/}
+                                                {/*        <div className="portfolio-item-meta">*/}
+                                                {/*            <h5>{item.name}</h5>*/}
+                                                {/*            <p>{item.description}</p>*/}
+                                                {/*        </div>*/}
+                                                {/*    </div>*/}
+                                                {/*</a>*/}
+
+                                                {/*<video controls="true">*/}
+                                                {/*    <source src={item.imgurl} type="video/mp4"/>*/}
+                                                {/*</video>*/}
+
+                                                {/*<YouTube videoId={item.imgurl}/>*/}
+
+                                                <ReactPlayer url={item.imgurl} />
                                             </div>
                                         </div>
                                     )

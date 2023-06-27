@@ -4,7 +4,7 @@ import About from './components/About';
 import Resume from './components/Resume';
 import Footer from './components/Footer';
 import resumeData from './resumeData';
-
+import Portfolio from "./components/Portfolio";
 class App extends Component {
     render() {
         return (
@@ -12,7 +12,7 @@ class App extends Component {
                 <Header resumeData={resumeData}/>
                 <About resumeData={resumeData}/>
                 <Resume resumeData={resumeData}/>
-                {/*<Portfolio resumeData={resumeData}/>*/}
+                <Portfolio resumeData={resumeData}/>
                 {/*<Testimonials resumeData={resumeData}/>*/}
                 {/*<ContactUs resumeData={resumeData}/>*/}
                 <Footer resumeData={resumeData}/>
