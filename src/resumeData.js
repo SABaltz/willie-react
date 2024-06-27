@@ -18,7 +18,7 @@ let resumeData = {
         },
     ],
     "aboutme": "University Of Montana Alumni with a bachelors in percussion performance, and composition for media and advertisements.",
-    "address": "Columbia Falls MT",
+    "address": "Flathead Valley, MT",
     "website": "https://WillieBaltz.com",
     "phone": "(406) 253-2867",
     "education": [

@@ -4,7 +4,7 @@ export default class About extends Component {
     render() {
         let resumeData = this.props.resumeData;
         return (
-            <section id="about" style={{backgroundColor: '#4286f4'}}>
+            <section id="about" style={{backgroundImage: 'linear-gradient(to right, #4286f4, #373B44)'}}>
                 <div className="row">
                     <div className="three columns">
                         <img className="profile-pic" src="images/profilepic.jpg" alt=""/>
