@@ -27,7 +27,7 @@ let resumeData = {
             "specialization": "Music Performance",
             "MonthOfPassing": "May",
             "YearOfPassing": "2023",
-            "Achievements": "Some Achievements"
+            "Achievements": ""
         },
         {
             "UniversityName": "The University Of Montana",
