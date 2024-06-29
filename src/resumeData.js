@@ -16,6 +16,11 @@ let resumeData = {
             "url": "https://www.youtube.com/watch?v=-8mxB2WrbKc&ab_channel=UniversityofMontanaSchoolofMusic",
             "className": "fa fa-youtube"
         },
+        {
+            "name": "facebook",
+            "url": "https://www.facebook.com/will.baltz.5",
+            "className": "fa fa-facebook"
+        },
     ],
     "aboutme": "University Of Montana Alumni with a bachelors in percussion performance, and composition for media and advertisements.",
     "address": "Flathead Valley, MT",
