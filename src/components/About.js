@@ -6,10 +6,16 @@ export default class About extends Component {
         return (
             <section id="about" style={{backgroundImage: 'linear-gradient(to right, #4286f4, #373B44)'}}>
                 <div className="row">
-                    <div className="three columns">
-                        <img className="profile-pic" src="images/profilepic.jpg" alt=""/>
+                    <div className="four columns">
+                        <img className="profile-pic" src="/images/WillieSucksDrumbs.jpg" alt=""/>
                     </div>
-                    <div className="nine columns main-col">
+                    <div className="four columns">
+                        <img className="profile-pic" src="/images/WillieSucksDrumbs.jpg" alt=""/>
+                    </div>
+                    <div className="four columns">
+                        <img className="profile-pic" src="/images/WillieSucksDrumbs.jpg" alt=""/>
+                    </div>
+                    <div className="twelve columns main-col">
                         <h2>About Me</h2>
                         <p style={{color: 'white'}}>
                             {
