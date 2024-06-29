@@ -1,10 +1,10 @@
 let resumeData = {
     "imagebaseurl": "https://rbhatia46.github.io/",
     "name": "Willie Baltz",
-    "role": "Percussionist and composer",
+    "role": "",
     "linkedinId": "Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": " I specialize in music performance and music composition for media and advertisements.",
+    "roleDescription": " I am from Northwest Montana and I specialize in performance, audio recording, music composition, and private lessons.",
     "socialLinks": [
         {
             "name": "instagram",
